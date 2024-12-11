@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: darkblue;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+.first-clicked {
+    background-color: lightblue;
+    color: navy;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.second-clicked {
+    background-color: lightgreen;
+    color: darkgreen;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+button {
+    margin: 5px;
+}
